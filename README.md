@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7806235.svg)](https://doi.org/10.5281/zenodo.7806235)
+
 # Gradient-based Cooperative Control ofquasi-Linear Parameter Varying Vehicleswith Noisy Gradients
 
 ## General
